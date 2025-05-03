@@ -45,6 +45,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JoaquinCaparros711/JoaquinCaparros711/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JoaquinCaparros711/output/snake.svg" alt="Snake animation" />
 
 ###
